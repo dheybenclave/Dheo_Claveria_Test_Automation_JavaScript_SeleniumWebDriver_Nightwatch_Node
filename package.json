@@ -19,6 +19,8 @@
   "homepage": "https://github.com/dheybenclave/automation_nightwatch_test_sleek#readme",
   "devDependencies": {
     "chromedriver": "^89.0.0",
+    "common": "^0.2.5",
     "nightwatch": "^1.5.1"
-  }
+  },
+  "dependencies": {}
 }
